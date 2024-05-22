@@ -7,7 +7,7 @@
 
 1. 해상 객체 이미지와 화재 이미지를 수집해 Roboflow를 이용해 Annotation
 2. Google colab에서 yolov5를 이용해 데이터 학습
-3. yolov5로 학습한 모델을 tenserflow.js 파일로 변환
+3. yolov5로 학습한 모델을 tensorflow.js 파일로 변환
 4. html로 웹 페이지 구현
 
 <br>
